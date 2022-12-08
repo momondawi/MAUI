@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A2507A40-8F11-470D-9359-010E150336AD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_3a_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Astronomy/AppShell.xaml">
+    <Files>
+      <File FileName="Astronomy/AppShell.xaml" Line="24" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Astronomy" expanded="True">
+            <Node name="Astronomy" expanded="True">
+              <Node name="AppShell.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Astronomy PreferredExecutionTarget="Android.pixel_3a_-_api_33" />
+</Properties>

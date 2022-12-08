@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A2999CC6-E7FC-4E9F-8A6E-838819DB6ED0}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_3a_-_api_33" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alignment" expanded="True">
+            <Node name="Alignment" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Alignment PreferredExecutionTarget="Android.pixel_3a_-_api_33" />
+</Properties>

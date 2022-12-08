@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{073153FB-42CF-4921-A86A-F726232A9F3C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Phoneword PreferredExecutionTarget="Android.pixel_3a_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Phoneword/MainPage.xaml.cs" Line="45" Column="41" />
+      <File FileName="Phoneword/MainPage.xaml" Line="16" Column="37" />
+      <File FileName="Phoneword/PhonewordTranslator.cs" Line="50" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Phoneword" expanded="True">
+            <Node name="Phoneword" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True">
+                  <Node name="Resources" expanded="True">
+                    <Node name="values" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_3a_-_api_33" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

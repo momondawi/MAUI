@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A6CD2BFD-533D-4A2C-BCD8-74EBB68954A3}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_3a_-_api_33" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainPage.xaml">
+    <Files>
+      <File FileName="MainPage.xaml" Line="29" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TipCalculator" expanded="True">
+            <Node name="TipCalculator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TipCalculator PreferredExecutionTarget="Android.pixel_3a_-_api_33" />
+</Properties>

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5B065208-D1C8-4544-851A-9046AF0E6743}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PartsClient PreferredExecutionTarget="Android.pixel_3a_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_3a_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartsClient/Data/PartsManager.cs">
+    <Files>
+      <File FileName="PartsClient/Data/PartsManager.cs" Line="93" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PartsClient" expanded="True">
+            <Node name="PartsClient" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="PartsManager.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
